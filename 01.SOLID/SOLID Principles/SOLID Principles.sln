@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Before - Drawing Shape"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Before - Books", "02. Before - Books\02. Before - Books.csproj", "{7947000F-DEC9-41F6-9543-99B6D69E1CDF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. After - Books", "02. After - Books\02. After - Books.csproj", "{F6AB7467-1605-4DA7-8959-E877B44FD02D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{7947000F-DEC9-41F6-9543-99B6D69E1CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7947000F-DEC9-41F6-9543-99B6D69E1CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7947000F-DEC9-41F6-9543-99B6D69E1CDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6AB7467-1605-4DA7-8959-E877B44FD02D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6AB7467-1605-4DA7-8959-E877B44FD02D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6AB7467-1605-4DA7-8959-E877B44FD02D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6AB7467-1605-4DA7-8959-E877B44FD02D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -45,6 +51,7 @@ Global
 		{A98A70E2-6C89-4B00-9686-AE6510FA578B} = {4B0B2507-D100-4E38-9689-D5102BB48B7D}
 		{BC6D9259-AF4B-4E84-AEAE-D657A529DC1F} = {4B0B2507-D100-4E38-9689-D5102BB48B7D}
 		{7947000F-DEC9-41F6-9543-99B6D69E1CDF} = {4B0B2507-D100-4E38-9689-D5102BB48B7D}
+		{F6AB7467-1605-4DA7-8959-E877B44FD02D} = {4B0B2507-D100-4E38-9689-D5102BB48B7D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4218E47D-0231-4E1A-9472-E1FCC2692C1D}
