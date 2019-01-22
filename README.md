@@ -4,7 +4,7 @@
 <h2 align="center">S O L I D</h2>
 
 <div align="center">
-	<table align="center" style="border: 0px">
+	<table align="center" border="0">
 		<tr><td>S</td> <td>&#187;</td> <td>Single Responsibility</td></tr>
 		<tr><td>O</td> <td>&#187;</td> <td>Open / Closed</td></tr>
 		<tr><td>L</td> <td>&#187;</td> <td>Liskov Substitution</td></tr>
