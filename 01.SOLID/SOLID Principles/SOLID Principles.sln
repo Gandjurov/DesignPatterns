@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.SingleResponsibilityPrinciple", "01.SingleResponsibilityPrinciple", "{4B0B2507-D100-4E38-9689-D5102BB48B7D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.OpenClosePrinciple", "02.OpenClosePrinciple", "{B6BC5F15-AF43-4BBA-9895-BB4D0FFE762A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.LiskovSubstitutionPrinciple", "03.LiskovSubstitutionPrinciple", "{A7DE4C4B-F19D-4161-9521-47FBAC53FC22}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.InterfaceSegregationPrinciple", "04.InterfaceSegregationPrinciple", "{110B98CC-56E8-4DC8-BA54-9B0B14364296}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05.DependancyInversionPrinciple", "05.DependancyInversionPrinciple", "{D09624EF-FF72-4C96-BDA5-7C79EC25AD68}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4218E47D-0231-4E1A-9472-E1FCC2692C1D}
+	EndGlobalSection
+EndGlobal
