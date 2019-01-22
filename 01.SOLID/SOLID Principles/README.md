@@ -1,14 +1,6 @@
-<h1 align="center">Design Patterns</h1>
-<p align="center"><i>SOLID and Other Principles</i></p>
-
-<h2 align="center">S O L I D</h2>
-
-<div align="center">
-	<table align="center" border="0">
-		<tr><td>S</td> <td>&#187;</td> <td>Single Responsibility</td></tr>
-		<tr><td>O</td> <td>&#187;</td> <td>Open / Closed</td></tr>
-		<tr><td>L</td> <td>&#187;</td> <td>Liskov Substitution</td></tr>
-		<tr><td>I</td> <td>&#187;</td> <td>Interface Segregation</td></tr>
-		<tr><td>D</td> <td>&#187;</td> <td>Dependancy Inversion</td></tr>
-	</table>
-</div>
+<h1>Single Responsibility Principle</h1>
+<p><strong>What is Single Responsibility?</strong></p>
+<br/>
+<p>Every class should be responsible <strong>for only a single part of the functionality</strong> and that responsibility should be entirely <strong>encapsulated</strong> by the class.</p>
+<br/>
+<p align="right">"There should never be more than one reason for a class to change."<br/>- Robert C. "Uncle Bob" Martin</p>
