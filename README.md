@@ -3,10 +3,12 @@
 
 <h2 align="center">S O L I D</h2>
 
-<ul align="center">
-	<li>S &#187; Single Responsibility</li>
-	<li>O &#187; Open / Closed</li>
-	<li>L &#187; Liskov Substitution</li>
-	<li>I &#187; Interface Segregation</li>
-	<li>D &#187; Dependancy Inversion</li>
-</ul>
+<div align="center">
+	<ul>
+		<li>S &#187; Single Responsibility</li>
+		<li>O &#187; Open / Closed</li>
+		<li>L &#187; Liskov Substitution</li>
+		<li>I &#187; Interface Segregation</li>
+		<li>D &#187; Dependancy Inversion</li>
+	</ul>
+</div>
