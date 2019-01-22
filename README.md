@@ -3,10 +3,12 @@
 
 <h2 align="center">S O L I D</h2>
 
-<table align="center">
-	<tr><td>S</td> <td>&#187;</td> <td>Single Responsibility</td></tr>
-	<tr><td>O</td> <td>&#187;</td> <td>Open / Closed</td></tr>
-	<tr><td>L</td> <td>&#187;</td> <td>Liskov Substitution</td></tr>
-	<tr><td>I</td> <td>&#187;</td> <td>Interface Segregation</td></tr>
-	<tr><td>D</td> <td>&#187;</td> <td>Dependancy Inversion</td></tr>
-</table>
+<div align="center">
+	<table align="center" style="border: 0px">
+		<tr><td>S</td> <td>&#187;</td> <td>Single Responsibility</td></tr>
+		<tr><td>O</td> <td>&#187;</td> <td>Open / Closed</td></tr>
+		<tr><td>L</td> <td>&#187;</td> <td>Liskov Substitution</td></tr>
+		<tr><td>I</td> <td>&#187;</td> <td>Interface Segregation</td></tr>
+		<tr><td>D</td> <td>&#187;</td> <td>Dependancy Inversion</td></tr>
+	</table>
+</div>
