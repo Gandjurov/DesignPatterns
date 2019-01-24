@@ -6,7 +6,6 @@
 <p align="right">"There should never be more than one reason for a class to change."<br/>- Robert C. "Uncle Bob" Martin</p>
 
 <br/>
-
 <p><strong>Cohesion</strong> ...</p>
 <ul>
 	<li><strong>Cohesion</strong> refers to the grouping of <strong>functionally related processes</strong> into a particular module.</li>
@@ -17,9 +16,7 @@
 		<li>A class should represent <strong>one entity</strong></li>
 	</ul>
 </ul>
-
 <br/>
-
 <p><strong>Coupling</strong> ...</p>
 <ul>
 	<li><strong>Coupling</strong> – the degree of dependence between modules</li>
