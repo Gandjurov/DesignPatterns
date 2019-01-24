@@ -5,7 +5,7 @@
 <br/>
 <p align="right">"There should never be more than one reason for a class to change."<br/>- Robert C. "Uncle Bob" Martin</p>
 
-<br/><br/>
+<br/>
 
 <p><strong>Cohesion</strong> ...</p>
 <ul>
@@ -18,7 +18,7 @@
 	</ul>
 </ul>
 
-<br/><br/>
+<br/>
 
 <p><strong>Coupling</strong> ...</p>
 <ul>
