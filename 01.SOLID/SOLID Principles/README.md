@@ -34,7 +34,7 @@
 		</ul>
 </ul>
 
-<p>Cohesion and Coupling - Approaches</p>
+<p><strong>Cohesion and Coupling - Approaches</strong></p>
 <ul>
 	<li><strong>Small number</strong> of instance variables inside a class</li>
 	<li>Each method of a class should manipulate <strong>one or more</strong> of those variables</li>
