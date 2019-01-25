@@ -31,6 +31,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Before - Drawing Shapes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Before - Shopping Cart (OCP)", "03. Before - Shopping Cart (OCP)\03. Before - Shopping Cart (OCP).csproj", "{5380EC50-F21A-4608-A84D-8A8A887822CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. After - Shopping Cart (OCP)", "03. After - Shopping Cart (OCP)\03. After - Shopping Cart (OCP).csproj", "{F72B3EF2-B845-47A7-A2AA-41A89A728FAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +75,10 @@ Global
 		{5380EC50-F21A-4608-A84D-8A8A887822CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5380EC50-F21A-4608-A84D-8A8A887822CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5380EC50-F21A-4608-A84D-8A8A887822CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F72B3EF2-B845-47A7-A2AA-41A89A728FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F72B3EF2-B845-47A7-A2AA-41A89A728FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F72B3EF2-B845-47A7-A2AA-41A89A728FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F72B3EF2-B845-47A7-A2AA-41A89A728FAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -87,6 +93,7 @@ Global
 		{8DEFFE09-0027-4670-AB29-64A99149FF30} = {B6BC5F15-AF43-4BBA-9895-BB4D0FFE762A}
 		{F5D18D49-EBB1-4793-B677-79B345F118A5} = {B6BC5F15-AF43-4BBA-9895-BB4D0FFE762A}
 		{5380EC50-F21A-4608-A84D-8A8A887822CC} = {B6BC5F15-AF43-4BBA-9895-BB4D0FFE762A}
+		{F72B3EF2-B845-47A7-A2AA-41A89A728FAD} = {B6BC5F15-AF43-4BBA-9895-BB4D0FFE762A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4218E47D-0231-4E1A-9472-E1FCC2692C1D}
