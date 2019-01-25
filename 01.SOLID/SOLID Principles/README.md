@@ -43,3 +43,21 @@
 	<li>Two modules should <strong>exchange</strong> as <strong>little information</strong> as possible</li>
 	<li>Creating an <strong>easily reusable</strong> subsystem </li>
 </ul>
+
+
+<h1>Open/Close Principle</h1>
+<p><strong>What is the Open/Closed Principle?</strong></p>
+
+<br/>
+<ul>
+	<li>Software entities like <strong>classes</strong>, <strong>modules</strong> and <strong>functions</strong> should be <strong>open</strong> for <strong>extension</strong>, 
+	but <strong>closed</strong> for <strong>modifications</strong></li>
+	<li><strong>Extensibility</strong></li>
+		<ul>
+			<li>Adding a new behavior <strong>doesn't require</strong> changes over existing source code</li>
+		</ul>
+	<li><strong>Reusability</strong></li>
+		<ul>
+			<li>subsystems are <strong>suitable for reusing</strong> in other projects – modularity</li>
+		</ul>
+</ul>
