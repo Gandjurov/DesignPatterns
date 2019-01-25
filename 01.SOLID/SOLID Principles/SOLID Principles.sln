@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. After - File Stream", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Before - Drawing Shapes", "02. Before - Drawing Shapes\02. Before - Drawing Shapes.csproj", "{05A46213-571A-416F-8954-5BACFBB51003}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. After - Drawing Shapes", "02. After - Drawing Shapes\02. After - Drawing Shapes.csproj", "{D43CF355-4838-4EFB-B20C-F17837BF9A60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +63,10 @@ Global
 		{05A46213-571A-416F-8954-5BACFBB51003}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05A46213-571A-416F-8954-5BACFBB51003}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05A46213-571A-416F-8954-5BACFBB51003}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D43CF355-4838-4EFB-B20C-F17837BF9A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D43CF355-4838-4EFB-B20C-F17837BF9A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D43CF355-4838-4EFB-B20C-F17837BF9A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D43CF355-4838-4EFB-B20C-F17837BF9A60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -73,6 +79,7 @@ Global
 		{E21EEB1E-19F6-4619-BA47-24903B8778C2} = {B6BC5F15-AF43-4BBA-9895-BB4D0FFE762A}
 		{996FB062-1F24-462F-A456-F4710D01D86A} = {B6BC5F15-AF43-4BBA-9895-BB4D0FFE762A}
 		{05A46213-571A-416F-8954-5BACFBB51003} = {B6BC5F15-AF43-4BBA-9895-BB4D0FFE762A}
+		{D43CF355-4838-4EFB-B20C-F17837BF9A60} = {B6BC5F15-AF43-4BBA-9895-BB4D0FFE762A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4218E47D-0231-4E1A-9472-E1FCC2692C1D}
