@@ -65,6 +65,7 @@
 		</ul>
 </ul>
 
+<br/>
 <p><strong>Design Smell - Violations</strong></p>
 <ul>
 	<li>Need to <strong>retest</strong> after changes</li>
@@ -75,6 +76,7 @@
 	<li>Logic depends on <strong>conditional statements</strong> (“<strong>IS-A</strong>” checking)</li>
 </ul>
 
+<br/>
 <p><strong>OCP - Approaches</strong></p>
 <ul>
 	<li>Parameters</li>
@@ -91,6 +93,7 @@
 		</ul>
 </ul>
 
+<br/>
 <p><strong>OCP - When to Apply</strong></p>
 <ul>
 	<li>By experience – know the problem domain and if a <strong>change</strong> is very <strong>likely</strong> to <strong>recur</strong></li>
