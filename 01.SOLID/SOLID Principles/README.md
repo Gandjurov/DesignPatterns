@@ -94,12 +94,10 @@
 <p><strong>OCP - When to Apply</strong></p>
 <ul>
 	<li>By experience – know the problem domain and if a <strong>change</strong> is very <strong>likely</strong> to <strong>recur</strong></li>
-	
 	<li>New domain problem – implement the <strong>most simple</strong> way</li>
 		<ul>
 			<li>Changes once – <strong>modify</strong>, second time – <strong>refactor</strong></li>
 		</ul>
-		
 	<li>TANSTAAFL – There Ain't No Such Thing As A Free Lunch</li>
 		<ul>
 			<li>OCP adds <strong>complexity</strong> to design</li>
