@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. After - Books (SRP)", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Before - Books (SRP)", "02. Before - Books (SRP)\02. Before - Books (SRP).csproj", "{95D962E1-3495-4B9F-9816-8E135AC6EE0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Before - File Stream", "01. Before - File Stream\01. Before - File Stream.csproj", "{E21EEB1E-19F6-4619-BA47-24903B8778C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,10 @@ Global
 		{95D962E1-3495-4B9F-9816-8E135AC6EE0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95D962E1-3495-4B9F-9816-8E135AC6EE0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95D962E1-3495-4B9F-9816-8E135AC6EE0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E21EEB1E-19F6-4619-BA47-24903B8778C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E21EEB1E-19F6-4619-BA47-24903B8778C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E21EEB1E-19F6-4619-BA47-24903B8778C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E21EEB1E-19F6-4619-BA47-24903B8778C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -52,6 +58,7 @@ Global
 		{68281388-5192-4154-8EC3-7FC343C04C6D} = {4B0B2507-D100-4E38-9689-D5102BB48B7D}
 		{8A337E81-FEA7-424C-819D-B2B69BEA043D} = {4B0B2507-D100-4E38-9689-D5102BB48B7D}
 		{95D962E1-3495-4B9F-9816-8E135AC6EE0E} = {4B0B2507-D100-4E38-9689-D5102BB48B7D}
+		{E21EEB1E-19F6-4619-BA47-24903B8778C2} = {B6BC5F15-AF43-4BBA-9895-BB4D0FFE762A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4218E47D-0231-4E1A-9472-E1FCC2692C1D}
