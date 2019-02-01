@@ -143,3 +143,16 @@
 	<li>There <strong>shouldn't</strong> be any <strong>virtual methods</strong> in constructors</li>
 </ul>
 
+
+<br/>
+<h1>Interface Segregation Principle</h1>
+<p><strong>What is Interface Segregation?</strong></p>
+<ul>
+	<li>Segregate interfaces</li>
+		<ul>
+			<li>Prefer <strong>small</strong>, <strong>cohesive</strong> (lean and focused) interfaces</li>
+			<li>Divide "<strong>fat</strong>" interfaces into "<strong>role</strong>" interfaces</li>
+		</ul>
+	<p align="right">"<strong>Clients</strong> should not be forced to depend on methods they do not use."</br>
+										- Agile Principles, Patterns and Practices in C#</p>
+</ul>
