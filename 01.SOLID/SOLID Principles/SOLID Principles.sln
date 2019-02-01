@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Before - Movement (LSP)
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. After - Movement (LSP)", "03. After - Movement (LSP)\03. After - Movement (LSP).csproj", "{AE8A72ED-1600-4BA6-8791-6C4690C8DDE4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualCallInConstructor", "VirtualCallInConstructor\VirtualCallInConstructor.csproj", "{0D8BEFCE-8BE0-4BE0-A723-44F4A07EA74C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -115,6 +117,10 @@ Global
 		{AE8A72ED-1600-4BA6-8791-6C4690C8DDE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE8A72ED-1600-4BA6-8791-6C4690C8DDE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE8A72ED-1600-4BA6-8791-6C4690C8DDE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D8BEFCE-8BE0-4BE0-A723-44F4A07EA74C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D8BEFCE-8BE0-4BE0-A723-44F4A07EA74C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D8BEFCE-8BE0-4BE0-A723-44F4A07EA74C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D8BEFCE-8BE0-4BE0-A723-44F4A07EA74C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -136,6 +142,7 @@ Global
 		{29871DA2-F1D2-4517-91AA-346EE8734ED3} = {A7DE4C4B-F19D-4161-9521-47FBAC53FC22}
 		{6A968188-4A00-486E-B186-A6A9C1BDB0F8} = {A7DE4C4B-F19D-4161-9521-47FBAC53FC22}
 		{AE8A72ED-1600-4BA6-8791-6C4690C8DDE4} = {A7DE4C4B-F19D-4161-9521-47FBAC53FC22}
+		{0D8BEFCE-8BE0-4BE0-A723-44F4A07EA74C} = {A7DE4C4B-F19D-4161-9521-47FBAC53FC22}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4218E47D-0231-4E1A-9472-E1FCC2692C1D}
