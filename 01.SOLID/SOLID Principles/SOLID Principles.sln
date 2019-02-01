@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Worker - Before (ISP)",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Worker - After (ISP)", "01. Worker - After (ISP)\01. Worker - After (ISP).csproj", "{D7557444-D1AD-4017-9D2E-10876A6356F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Identity - Before (ISP)", "02. Identity - Before (ISP)\02. Identity - Before (ISP).csproj", "{65BA25A2-F3B6-4F49-A1B3-96AEB22A167E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -133,6 +135,10 @@ Global
 		{D7557444-D1AD-4017-9D2E-10876A6356F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7557444-D1AD-4017-9D2E-10876A6356F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7557444-D1AD-4017-9D2E-10876A6356F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65BA25A2-F3B6-4F49-A1B3-96AEB22A167E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65BA25A2-F3B6-4F49-A1B3-96AEB22A167E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65BA25A2-F3B6-4F49-A1B3-96AEB22A167E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65BA25A2-F3B6-4F49-A1B3-96AEB22A167E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -157,6 +163,7 @@ Global
 		{0D8BEFCE-8BE0-4BE0-A723-44F4A07EA74C} = {A7DE4C4B-F19D-4161-9521-47FBAC53FC22}
 		{A0B98727-742F-4EEA-89D5-F9DDF97A94FB} = {110B98CC-56E8-4DC8-BA54-9B0B14364296}
 		{D7557444-D1AD-4017-9D2E-10876A6356F1} = {110B98CC-56E8-4DC8-BA54-9B0B14364296}
+		{65BA25A2-F3B6-4F49-A1B3-96AEB22A167E} = {110B98CC-56E8-4DC8-BA54-9B0B14364296}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4218E47D-0231-4E1A-9472-E1FCC2692C1D}
