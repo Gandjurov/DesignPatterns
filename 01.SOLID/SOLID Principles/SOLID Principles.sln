@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. After - Square (LSP)", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Before - Employees (LSP)", "02. Before - Employees (LSP)\02. Before - Employees (LSP).csproj", "{886D6D3A-759F-4119-A961-6E7141AD61D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. After - Employees (LSP)", "02. After - Employees (LSP)\02. After - Employees (LSP).csproj", "{29871DA2-F1D2-4517-91AA-346EE8734ED3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -97,6 +99,10 @@ Global
 		{886D6D3A-759F-4119-A961-6E7141AD61D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{886D6D3A-759F-4119-A961-6E7141AD61D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{886D6D3A-759F-4119-A961-6E7141AD61D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29871DA2-F1D2-4517-91AA-346EE8734ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29871DA2-F1D2-4517-91AA-346EE8734ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29871DA2-F1D2-4517-91AA-346EE8734ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29871DA2-F1D2-4517-91AA-346EE8734ED3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -115,6 +121,7 @@ Global
 		{BE6B2C8A-9989-462B-8E89-4FBC6BA83162} = {A7DE4C4B-F19D-4161-9521-47FBAC53FC22}
 		{0579FF26-8DAC-4581-B538-084C9A8F43F7} = {A7DE4C4B-F19D-4161-9521-47FBAC53FC22}
 		{886D6D3A-759F-4119-A961-6E7141AD61D2} = {A7DE4C4B-F19D-4161-9521-47FBAC53FC22}
+		{29871DA2-F1D2-4517-91AA-346EE8734ED3} = {A7DE4C4B-F19D-4161-9521-47FBAC53FC22}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4218E47D-0231-4E1A-9472-E1FCC2692C1D}
