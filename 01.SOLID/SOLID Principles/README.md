@@ -110,7 +110,7 @@
 		</ul>
 </ul>
 
-
+<br/>
 <h1>Liskov Substitution Principle</h1>
 <p><strong>LSP - Substitutability</strong></p>
 <ul>
