@@ -111,11 +111,35 @@
 </ul>
 
 
+<h1>Liskov Substitution Principle</h1>
+<p><strong>LSP - Substitutability</strong></p>
+<ul>
+	<li>Derived types must be completely <strong>substitutable</strong> for their base types</li>
+	<li>Derived classes</li>
+		<ul>
+			<li>only <strong>extend</strong> functionalities of the base class</li>
+			<li>must <strong>not</strong> remove <strong>base</strong> class <strong>behavior</strong></li>
+			<code>Student <strong>IS-SUBSTITUTED-FOR</strong> Person</code>
+		</ul>
 
+</ul>
 
+<br/>
+<p><strong>Design Smell - Violations</strong></p>
+<ul>
+	<li>Type Checking</li>
+	<li>Overridden methods say "I am not implemented"</li>
+	<li>Base class depends on its subtypes</li>
+</ul>
 
-
-
-
-
+<br/>
+<p><strong>LSP – Approaches</strong></p>
+<ul>
+	<li>Tell Don't Ask</li>
+		<ul>
+			<li>If you need to check what is the object  - move the behavior <strong>inside the object</strong></li>
+		</ul>
+	<li>New Base Class – if <strong>two classes</strong> share a common behavior, but are not substitutable, create a third, from which <strong>both derive</strong></li>
+	<li>There <strong>shouldn't</strong> be any <strong>virtual methods</strong> in constructors</li>
+</ul>
 
