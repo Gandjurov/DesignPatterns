@@ -1,9 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace OpenClosedDrawingShapesBefore
+﻿namespace OpenClosedDrawingShapesBefore
 {
+    using OpenClosedDrawingShapesBefore.Contracts;
+
     public class Rectangle : IShape
     {
     }
