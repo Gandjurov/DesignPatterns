@@ -156,3 +156,34 @@
 	<p align="right">"<strong>Clients</strong> should not be forced to depend on methods they do not use."</br>
 										- Agile Principles, Patterns and Practices in C#</p>
 </ul>
+
+<ul>
+	<li>Classes whose interfaces are not cohesive have "fat" interfaces</li>
+</ul>
+<code>
+public interface IWorker 
+{
+  void Work();
+  void Sleep();
+}
+</code>
+<code>
+public class Robot : IWorker 
+{
+  void Work() { … }
+  void Sleep() 
+    { throw new NotImplementedException() }
+}
+</code>
+
+<br/>
+<p><strong>Design Smells - Violations</strong></p>
+<ul>
+	<li><strong>Not implemented</strong> methods</li>
+	<li>A Client references a class, but only uses a <strong>small portion</strong> of it</li>
+
+	<p align="right">"Abstraction is <strong>elimination</strong> </br>
+					  of the <strong>irrelevant</strong> and </br>
+					  <strong>amplification</strong> of the <strong>essential</strong>."</br>
+							       – Robert C. Martin</p>
+</ul>
