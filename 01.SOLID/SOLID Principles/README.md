@@ -185,3 +185,23 @@
 of the <strong>irrelevant</strong> and </br>
 <strong>amplification</strong> of the <strong>essential</strong>."
 										</br>– Robert C. Martin</p>
+										
+<br/>
+<p><strong>ISP - Approaches</strong></p>
+<ul>
+	<li>What does the client <strong>see</strong> and <strong>use</strong>?</li>
+	<li>The "<strong>fat</strong>" interfaces implement a <strong>number of small</strong> interfaces with just what you need</li>
+	<li>All <strong>public members</strong> of a class divided in <strong>separate classes</strong> – again, could be thought of as an interface</li>
+	<li>Let the <strong>client define interfaces</strong> – "<strong>role</strong>" interfaces</li>
+</ul>
+
+<br/>
+<p><strong>Adapter Pattern</strong></p>
+<ul>
+	<li>Problem that the <strong>Adapter pattern</strong> solves</li>
+	<ul>
+		<li><strong>Reusing</strong> classes that do not have  an <strong>interface</strong> that  a client requires</li>
+		<li>Making classes with <strong>incompatible</strong> interfaces work together</li>
+		<li>Providing <strong>an alternative</strong> interface for a class</li>
+	</ul>
+</ul>
