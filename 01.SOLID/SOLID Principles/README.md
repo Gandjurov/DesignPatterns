@@ -172,7 +172,7 @@
 <code>{</code><br/>
 <code>  void Work() { … }</code><br/>
 <code>  void Sleep() </code><br/>
-    { throw new NotImplementedException() }</code><br/>
+<code>   { throw new NotImplementedException() }</code><br/>
 <code>}</code><br/>
 
 <br/>
