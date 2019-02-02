@@ -186,7 +186,7 @@ of the <strong>irrelevant</strong> and </br>
 <strong>amplification</strong> of the <strong>essential</strong>."
 										</br>– Robert C. Martin</p>
 										
-<br/>
+										
 <p><strong>ISP - Approaches</strong></p>
 <ul>
 	<li>What does the client <strong>see</strong> and <strong>use</strong>?</li>
