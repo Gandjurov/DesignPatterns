@@ -161,19 +161,19 @@
 	<li>Classes whose interfaces are not cohesive have "fat" interfaces</li>
 </ul>
 <code>
-public interface IWorker 
-{
-  void Work();
-  void Sleep();
-}
+public interface IWorker <br/>
+{<br/>
+  void Work();<br/>
+  void Sleep();<br/>
+}<br/>
 </code>
 <code>
-public class Robot : IWorker 
-{
-  void Work() { … }
-  void Sleep() 
-    { throw new NotImplementedException() }
-}
+public class Robot : IWorker<br/>
+{<br/>
+  void Work() { … }<br/>
+  void Sleep() <br/>
+    { throw new NotImplementedException() }<br/>
+}<br/>
 </code>
 
 <br/>
@@ -182,8 +182,5 @@ public class Robot : IWorker
 	<li><strong>Not implemented</strong> methods</li>
 	<li>A Client references a class, but only uses a <strong>small portion</strong> of it</li>
 
-	<p align="right">"Abstraction is <strong>elimination</strong> </br>
-					  of the <strong>irrelevant</strong> and </br>
-					  <strong>amplification</strong> of the <strong>essential</strong>."</br>
-							       – Robert C. Martin</p>
+	<p align="right">"Abstraction is <strong>elimination</strong> </br>of the <strong>irrelevant</strong> and </br><strong>amplification</strong> of the <strong>essential</strong>."</br>– Robert C. Martin</p>
 </ul>
