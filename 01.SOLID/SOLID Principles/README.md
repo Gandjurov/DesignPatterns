@@ -167,14 +167,13 @@
 <code>  void Sleep();</code><br/>
 <code>}</code><br/>
 
-<code>
-public class Robot : IWorker<br/>
-{<br/>
-  void Work() { … }<br/>
-  void Sleep() <br/>
-    { throw new NotImplementedException() }<br/>
-}<br/>
-</code>
+
+<code>public class Robot : IWorker</code><br/>
+<code>{</code><br/>
+<code>  void Work() { … }</code><br/>
+<code>  void Sleep() </code><br/>
+    { throw new NotImplementedException() }</code><br/>
+<code>}</code><br/>
 
 <br/>
 <p><strong>Design Smells - Violations</strong></p>
