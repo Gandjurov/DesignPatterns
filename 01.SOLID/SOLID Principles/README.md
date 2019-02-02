@@ -161,11 +161,11 @@
 	<li>Classes whose interfaces are not cohesive have "fat" interfaces</li>
 </ul>
 
-<code>public interface IWorker</code>
-<code>{</code>
-<code>  void Work();</code>
-<code>  void Sleep();</code>
-<code>}</code>
+<code>public interface IWorker</code><br/>
+<code>{</code><br/>
+<code>  void Work();</code><br/>
+<code>  void Sleep();</code><br/>
+<code>}</code><br/>
 
 <code>
 public class Robot : IWorker<br/>
