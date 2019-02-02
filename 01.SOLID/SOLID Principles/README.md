@@ -181,6 +181,8 @@ public class Robot : IWorker<br/>
 <ul>
 	<li><strong>Not implemented</strong> methods</li>
 	<li>A Client references a class, but only uses a <strong>small portion</strong> of it</li>
-
-	<p align="right">"Abstraction is <strong>elimination</strong> </br>of the <strong>irrelevant</strong> and </br><strong>amplification</strong> of the <strong>essential</strong>."</br>– Robert C. Martin</p>
 </ul>
+<p align="right">"Abstraction is <strong>elimination</strong> </br>
+of the <strong>irrelevant</strong> and </br>
+<strong>amplification</strong> of the <strong>essential</strong>."
+										</br>– Robert C. Martin</p>
