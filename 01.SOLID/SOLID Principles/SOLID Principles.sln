@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Hello World - Before (D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Hello World - After (DIP)", "01. Hello World - After (DIP)\01. Hello World - After (DIP).csproj", "{5EB4836F-2A2E-4274-8640-DA6B234DF43E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Worker - Before (DIP)", "02. Worker - Before (DIP)\02. Worker - Before (DIP).csproj", "{00CE9A88-5633-46FB-8856-A6B623180111}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -157,6 +159,10 @@ Global
 		{5EB4836F-2A2E-4274-8640-DA6B234DF43E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5EB4836F-2A2E-4274-8640-DA6B234DF43E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5EB4836F-2A2E-4274-8640-DA6B234DF43E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00CE9A88-5633-46FB-8856-A6B623180111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00CE9A88-5633-46FB-8856-A6B623180111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00CE9A88-5633-46FB-8856-A6B623180111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00CE9A88-5633-46FB-8856-A6B623180111}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -185,6 +191,7 @@ Global
 		{71535963-3BFF-4F28-BB1D-030B9BA11BF5} = {110B98CC-56E8-4DC8-BA54-9B0B14364296}
 		{F59A2F97-8674-4DD4-B509-73AD37910F06} = {D09624EF-FF72-4C96-BDA5-7C79EC25AD68}
 		{5EB4836F-2A2E-4274-8640-DA6B234DF43E} = {D09624EF-FF72-4C96-BDA5-7C79EC25AD68}
+		{00CE9A88-5633-46FB-8856-A6B623180111} = {D09624EF-FF72-4C96-BDA5-7C79EC25AD68}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4218E47D-0231-4E1A-9472-E1FCC2692C1D}
