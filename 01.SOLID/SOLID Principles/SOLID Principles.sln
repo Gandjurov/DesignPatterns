@@ -33,27 +33,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Before - Shopping Cart 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. After - Shopping Cart (OCP)", "03. After - Shopping Cart (OCP)\03. After - Shopping Cart (OCP).csproj", "{F72B3EF2-B845-47A7-A2AA-41A89A728FAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Before - Square (LSP)", "01. Before - Square (LSP)\01. Before - Square (LSP).csproj", "{BE6B2C8A-9989-462B-8E89-4FBC6BA83162}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Before - Square (LSP)", "01. Before - Square (LSP)\01. Before - Square (LSP).csproj", "{BE6B2C8A-9989-462B-8E89-4FBC6BA83162}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. After - Square (LSP)", "01. After - Square (LSP)\01. After - Square (LSP).csproj", "{0579FF26-8DAC-4581-B538-084C9A8F43F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. After - Square (LSP)", "01. After - Square (LSP)\01. After - Square (LSP).csproj", "{0579FF26-8DAC-4581-B538-084C9A8F43F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Before - Employees (LSP)", "02. Before - Employees (LSP)\02. Before - Employees (LSP).csproj", "{886D6D3A-759F-4119-A961-6E7141AD61D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Before - Employees (LSP)", "02. Before - Employees (LSP)\02. Before - Employees (LSP).csproj", "{886D6D3A-759F-4119-A961-6E7141AD61D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. After - Employees (LSP)", "02. After - Employees (LSP)\02. After - Employees (LSP).csproj", "{29871DA2-F1D2-4517-91AA-346EE8734ED3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. After - Employees (LSP)", "02. After - Employees (LSP)\02. After - Employees (LSP).csproj", "{29871DA2-F1D2-4517-91AA-346EE8734ED3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Before - Movement (LSP)", "03. Before - Movement (LSP)\03. Before - Movement (LSP).csproj", "{6A968188-4A00-486E-B186-A6A9C1BDB0F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Before - Movement (LSP)", "03. Before - Movement (LSP)\03. Before - Movement (LSP).csproj", "{6A968188-4A00-486E-B186-A6A9C1BDB0F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. After - Movement (LSP)", "03. After - Movement (LSP)\03. After - Movement (LSP).csproj", "{AE8A72ED-1600-4BA6-8791-6C4690C8DDE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. After - Movement (LSP)", "03. After - Movement (LSP)\03. After - Movement (LSP).csproj", "{AE8A72ED-1600-4BA6-8791-6C4690C8DDE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualCallInConstructor", "VirtualCallInConstructor\VirtualCallInConstructor.csproj", "{0D8BEFCE-8BE0-4BE0-A723-44F4A07EA74C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualCallInConstructor", "VirtualCallInConstructor\VirtualCallInConstructor.csproj", "{0D8BEFCE-8BE0-4BE0-A723-44F4A07EA74C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Worker - Before (ISP)", "01. Worker - Before (ISP)\01. Worker - Before (ISP).csproj", "{A0B98727-742F-4EEA-89D5-F9DDF97A94FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Worker - Before (ISP)", "01. Worker - Before (ISP)\01. Worker - Before (ISP).csproj", "{A0B98727-742F-4EEA-89D5-F9DDF97A94FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Worker - After (ISP)", "01. Worker - After (ISP)\01. Worker - After (ISP).csproj", "{D7557444-D1AD-4017-9D2E-10876A6356F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Worker - After (ISP)", "01. Worker - After (ISP)\01. Worker - After (ISP).csproj", "{D7557444-D1AD-4017-9D2E-10876A6356F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Identity - Before (ISP)", "02. Identity - Before (ISP)\02. Identity - Before (ISP).csproj", "{65BA25A2-F3B6-4F49-A1B3-96AEB22A167E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Identity - Before (ISP)", "02. Identity - Before (ISP)\02. Identity - Before (ISP).csproj", "{65BA25A2-F3B6-4F49-A1B3-96AEB22A167E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Identity - After (ISP)", "02. Identity - After (ISP)\02. Identity - After (ISP).csproj", "{71535963-3BFF-4F28-BB1D-030B9BA11BF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Identity - After (ISP)", "02. Identity - After (ISP)\02. Identity - After (ISP).csproj", "{71535963-3BFF-4F28-BB1D-030B9BA11BF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Hello World - Before (DIP)", "01. Hello World - Before (DIP)\01. Hello World - Before (DIP).csproj", "{F59A2F97-8674-4DD4-B509-73AD37910F06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -145,6 +147,10 @@ Global
 		{71535963-3BFF-4F28-BB1D-030B9BA11BF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71535963-3BFF-4F28-BB1D-030B9BA11BF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71535963-3BFF-4F28-BB1D-030B9BA11BF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F59A2F97-8674-4DD4-B509-73AD37910F06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F59A2F97-8674-4DD4-B509-73AD37910F06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F59A2F97-8674-4DD4-B509-73AD37910F06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F59A2F97-8674-4DD4-B509-73AD37910F06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -171,6 +177,7 @@ Global
 		{D7557444-D1AD-4017-9D2E-10876A6356F1} = {110B98CC-56E8-4DC8-BA54-9B0B14364296}
 		{65BA25A2-F3B6-4F49-A1B3-96AEB22A167E} = {110B98CC-56E8-4DC8-BA54-9B0B14364296}
 		{71535963-3BFF-4F28-BB1D-030B9BA11BF5} = {110B98CC-56E8-4DC8-BA54-9B0B14364296}
+		{F59A2F97-8674-4DD4-B509-73AD37910F06} = {D09624EF-FF72-4C96-BDA5-7C79EC25AD68}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4218E47D-0231-4E1A-9472-E1FCC2692C1D}
