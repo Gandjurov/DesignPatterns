@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Worker - After (DIP)", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Database - Before (DIP)", "03. Database - Before (DIP)\03. Database - Before (DIP).csproj", "{6FE03360-0018-4A41-94C9-9E2D9E4BE50C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Database - After (DIP)", "03. Database - After (DIP)\03. Database - After (DIP).csproj", "{0F635A61-3B90-4E38-82DA-D672A5383FC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -175,6 +177,10 @@ Global
 		{6FE03360-0018-4A41-94C9-9E2D9E4BE50C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FE03360-0018-4A41-94C9-9E2D9E4BE50C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FE03360-0018-4A41-94C9-9E2D9E4BE50C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F635A61-3B90-4E38-82DA-D672A5383FC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F635A61-3B90-4E38-82DA-D672A5383FC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F635A61-3B90-4E38-82DA-D672A5383FC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F635A61-3B90-4E38-82DA-D672A5383FC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -206,6 +212,7 @@ Global
 		{00CE9A88-5633-46FB-8856-A6B623180111} = {D09624EF-FF72-4C96-BDA5-7C79EC25AD68}
 		{74E837BC-0CF2-4A14-AF1C-4AD4E77E07FB} = {D09624EF-FF72-4C96-BDA5-7C79EC25AD68}
 		{6FE03360-0018-4A41-94C9-9E2D9E4BE50C} = {D09624EF-FF72-4C96-BDA5-7C79EC25AD68}
+		{0F635A61-3B90-4E38-82DA-D672A5383FC9} = {D09624EF-FF72-4C96-BDA5-7C79EC25AD68}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4218E47D-0231-4E1A-9472-E1FCC2692C1D}
