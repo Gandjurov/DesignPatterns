@@ -244,17 +244,15 @@ of the <strong>irrelevant</strong> and </br>
 <table>
 <tr>
 
-<td>
+<td style="padding: 6px 13px;">
 <p><strong>Pros</strong></p>
-
 <ul>
 	<li>Class requirements are self-documenting</li>
 	<li>We don't have to worry about state validation</li>
 </ul>
-
 </td>
 
-<td>
+<td style="padding: 6px 13px;">
 <p><strong>Cons</strong></p>
 
 <ul>
@@ -271,19 +269,16 @@ of the <strong>irrelevant</strong> and </br>
 <table>
 <tr>
 
-<td>
+<td style="padding: 6px 13px;">
 <p><strong>Pros</strong></p>
-
 <ul>
 	<li>Functionality can be changed at any time</li>
 	<li>That makes the code very flexible</li>
 </ul>
-
 </td>
 
-<td>
+<td style="padding: 6px 13px;">
 <p><strong>Cons</strong></p>
-
 <ul>
 	<li>State can be invalid</li>
 	<li>Less intuitive to use</li>
@@ -298,18 +293,15 @@ of the <strong>irrelevant</strong> and </br>
 <table>
 <tr>
 
-<td>
+<td style="padding: 6px 13px;">
 <p><strong>Pros</strong></p>
-
 <ul>
 	<li>Changes are only localized to the method</li>
 </ul>
-
 </td>
 
-<td>
+<td style="padding: 6px 13px;">
 <p><strong>Cons</strong></p>
-
 <ul>
 	<li>Too many parameters</li>
 	<li>Breaks the method signature</li>
