@@ -271,7 +271,7 @@ of the <strong>irrelevant</strong> and </br>
 <table>
 <tr>
 
-<th class="tg-yw4l">
+<th>
 <p><strong>Pros</strong></p>
 <ul>
 	<li>Functionality can be changed at any time</li>
@@ -279,7 +279,7 @@ of the <strong>irrelevant</strong> and </br>
 </ul>
 </th>
 
-<th class="tg-yw4l">
+<th>
 <p><strong>Cons</strong></p>
 <ul>
 	<li>State can be invalid</li>
