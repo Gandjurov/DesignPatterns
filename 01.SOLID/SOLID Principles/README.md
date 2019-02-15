@@ -1,8 +1,3 @@
-.td
-{
-	padding: 6px 13px;
-}
-
 <h1>Single Responsibility Principle</h1>
 <p><strong>What is Single Responsibility?</strong></p>
 <br/>
@@ -245,7 +240,7 @@ of the <strong>irrelevant</strong> and </br>
 </ul>
 
 <br/>
-<p><strong>Constructor Injection – Pros and Cons<strong></p>
+<p><strong>Constructor Injection – Pros and Cons</strong></p>
 <table>
 <tr>
 
@@ -270,7 +265,7 @@ of the <strong>irrelevant</strong> and </br>
 </table>
 
 <br/>
-<p><strong>Property Injection – Pros and Cons<strong></p>
+<p><strong>Property Injection – Pros and Cons</strong></p>
 <table>
 <tr>
 
@@ -294,7 +289,7 @@ of the <strong>irrelevant</strong> and </br>
 </table>
 
 <br/>
-<p><strong>Parameter Injection – Pros and Cons<strong></p>
+<p><strong>Parameter Injection – Pros and Cons</strong></p>
 <table>
 <tr>
 
@@ -315,3 +310,4 @@ of the <strong>irrelevant</strong> and </br>
 
 </tr>
 </table>
+
