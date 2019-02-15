@@ -163,18 +163,19 @@
 
 <pre>
 public interface IWorker
-{<br/>
+{
   void Work();
   void Sleep();
 }
+<br/>
+public class Robot : IWorker
+{
+  void Work() { … }
+  void Sleep()
+   { throw new NotImplementedException() }
+}
 </pre>
 
-<code>public class Robot : IWorker</code><br/>
-<code>{</code><br/>
-<code>  void Work() { … }</code><br/>
-<code>  void Sleep() </code><br/>
-<code>   { throw new NotImplementedException() }</code><br/>
-<code>}</code><br/>
 
 <br/>
 <p><strong>Design Smells - Violations</strong></p>
