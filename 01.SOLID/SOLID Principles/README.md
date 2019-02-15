@@ -1,3 +1,11 @@
+<style>
+	td
+	{
+		padding: 6px 13px;
+	}
+
+</style>
+
 <h1>Single Responsibility Principle</h1>
 <p><strong>What is Single Responsibility?</strong></p>
 <br/>
@@ -323,7 +331,7 @@ of the <strong>irrelevant</strong> and </br>
 <ul>
 	<li>How to fix code, that violates the DIP:</li>
 		<ul>
-			<li><strong>Extract interfaces</strong> + use <strong>constructor injection<strong></li>
+			<li><strong>Extract interfaces</strong> + use <strong>constructor injection</strong></li>
 			<li>Set up an Inversion of Control (<strong>IoC</strong>) container</li>
 		</ul>
 </ul>
