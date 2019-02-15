@@ -1,11 +1,3 @@
-<style>
-	td
-	{
-		padding: 6px 13px;
-	}
-
-</style>
-
 <h1>Single Responsibility Principle</h1>
 <p><strong>What is Single Responsibility?</strong></p>
 <br/>
@@ -169,12 +161,13 @@
 	<li>Classes whose interfaces are not cohesive have "fat" interfaces</li>
 </ul>
 
-<code>public interface IWorker</code><br/>
-<code>{</code><br/>
-<code>  void Work();</code><br/>
-<code>  void Sleep();</code><br/>
-<code>}</code><br/>
-
+<pre>
+public interface IWorker
+{<br/>
+  void Work();
+  void Sleep();
+}
+</pre>
 
 <code>public class Robot : IWorker</code><br/>
 <code>{</code><br/>
