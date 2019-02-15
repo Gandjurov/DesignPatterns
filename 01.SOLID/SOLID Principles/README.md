@@ -239,9 +239,9 @@ of the <strong>irrelevant</strong> and </br>
 	<li>Parameter injection</li>
 </ul>
 
-<p>Constructor Injection – Pros and Cons</p>
+<br/>
+<p><strong>Constructor Injection – Pros and Cons<strong></p>
 <table>
-
 <tr>
 
 <td>
@@ -254,7 +254,6 @@ of the <strong>irrelevant</strong> and </br>
 
 </td>
 
-
 <td>
 <p><strong>Cons</strong></p>
 
@@ -265,5 +264,57 @@ of the <strong>irrelevant</strong> and </br>
 </td>
 
 </tr>
+</table>
 
+<br/>
+<p><strong>Property Injection – Pros and Cons<strong></p>
+<table>
+<tr>
+
+<td>
+<p><strong>Pros</strong></p>
+
+<ul>
+	<li>Functionality can be changed at any time</li>
+	<li>That makes the code very flexible</li>
+</ul>
+
+</td>
+
+<td>
+<p><strong>Cons</strong></p>
+
+<ul>
+	<li>State can be invalid</li>
+	<li>Less intuitive to use</li>
+</ul>
+</td>
+
+</tr>
+</table>
+
+<br/>
+<p><strong>Parameter Injection – Pros and Cons<strong></p>
+<table>
+<tr>
+
+<td>
+<p><strong>Pros</strong></p>
+
+<ul>
+	<li>Changes are only localized to the method</li>
+</ul>
+
+</td>
+
+<td>
+<p><strong>Cons</strong></p>
+
+<ul>
+	<li>Too many parameters</li>
+	<li>Breaks the method signature</li>
+</ul>
+</td>
+
+</tr>
 </table>
