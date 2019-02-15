@@ -244,7 +244,7 @@ of the <strong>irrelevant</strong> and </br>
 <table>
 <tr>
 
-<td style="padding: 6px 13px;">
+<td padding="6px 13px;">
 <p><strong>Pros</strong></p>
 <ul>
 	<li>Class requirements are self-documenting</li>
