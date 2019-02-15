@@ -271,21 +271,21 @@ of the <strong>irrelevant</strong> and </br>
 <table>
 <tr>
 
-<td>
+<th class="tg-yw4l">
 <p><strong>Pros</strong></p>
 <ul>
 	<li>Functionality can be changed at any time</li>
 	<li>That makes the code very flexible</li>
 </ul>
-</td>
+</th>
 
-<td>
+<th class="tg-yw4l">
 <p><strong>Cons</strong></p>
 <ul>
 	<li>State can be invalid</li>
 	<li>Less intuitive to use</li>
 </ul>
-</td>
+</th>
 
 </tr>
 </table>
