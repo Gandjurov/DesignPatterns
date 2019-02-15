@@ -1,3 +1,8 @@
+.td
+{
+	padding: 6px 13px;
+}
+
 <h1>Single Responsibility Principle</h1>
 <p><strong>What is Single Responsibility?</strong></p>
 <br/>
@@ -244,7 +249,7 @@ of the <strong>irrelevant</strong> and </br>
 <table>
 <tr>
 
-<td padding="6px 13px;">
+<td>
 <p><strong>Pros</strong></p>
 <ul>
 	<li>Class requirements are self-documenting</li>
@@ -252,7 +257,7 @@ of the <strong>irrelevant</strong> and </br>
 </ul>
 </td>
 
-<td padding="6px 13px;">
+<td>
 <p><strong>Cons</strong></p>
 
 <ul>
@@ -269,7 +274,7 @@ of the <strong>irrelevant</strong> and </br>
 <table>
 <tr>
 
-<td padding="6px 13px;">
+<td>
 <p><strong>Pros</strong></p>
 <ul>
 	<li>Functionality can be changed at any time</li>
@@ -277,7 +282,7 @@ of the <strong>irrelevant</strong> and </br>
 </ul>
 </td>
 
-<td padding="6px 13px;">
+<td>
 <p><strong>Cons</strong></p>
 <ul>
 	<li>State can be invalid</li>
@@ -293,14 +298,14 @@ of the <strong>irrelevant</strong> and </br>
 <table>
 <tr>
 
-<td padding="6px 13px;">
+<td>
 <p><strong>Pros</strong></p>
 <ul>
 	<li>Changes are only localized to the method</li>
 </ul>
 </td>
 
-<td padding="6px 13px;">
+<td>
 <p><strong>Cons</strong></p>
 <ul>
 	<li>Too many parameters</li>
