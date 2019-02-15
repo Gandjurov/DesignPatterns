@@ -205,3 +205,65 @@ of the <strong>irrelevant</strong> and </br>
 		<li>Providing <strong>an alternative</strong> interface for a class</li>
 	</ul>
 </ul>
+
+
+<br/>
+<h1>Dependency Inversion</h1>
+<ul>
+	<li>Depend directly on other modules</li>
+	<li>Depend on abstractions</li>
+</ul>
+
+<p><strong>Dependency Examples</strong></p>
+<p>A dependency is any external component / system:</p>
+<ul>
+	<li>Framework</li>
+	<li>3<sup>rd</sup> party library</li>
+	<li>Database</li>
+	<li>File system</li>
+	<li>Email</li>
+	<li>Web service</li>
+	<li>System resource (e.g. clock)</li>
+	<li>Configuration</li>
+	<li>The new keyword</li>
+	<li>Static method</li>
+	<li>Global function</li>
+	<li>Random generator</li>
+	<li>Console</li>
+</ul>
+
+<p>Types of Dependency Injection</p>
+<ul>
+	<li>Constructor injection</li>
+	<li>Property injection</li>
+	<li>Parameter injection</li>
+</ul>
+
+<p>Constructor Injection – Pros and Cons</p>
+<table>
+
+<td>
+
+<tr><strong>Pros</strong></tr>
+<tr>
+<ul>
+	<li>Class requirements are self-documenting</li>
+	<li>We don't have to worry about state validation</li>
+</ul>
+</tr>
+
+</td>
+
+<td>
+
+<tr><strong>Cons</strong></tr>
+<tr>
+<ul>
+	<li>Too many parameters</li>
+	<li>Sometimes, the functionality doesn't need all of the dependencies</li>
+</ul>
+</tr>
+
+</td>
+
+</table>
