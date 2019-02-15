@@ -242,28 +242,31 @@ of the <strong>irrelevant</strong> and </br>
 <p>Constructor Injection – Pros and Cons</p>
 <table>
 
-<td>
-
-<tr><strong>Pros</strong></tr>
 <tr>
+
+<td>
+<p><strong>Pros</strong></p>
+
 <ul>
 	<li>Class requirements are self-documenting</li>
 	<li>We don't have to worry about state validation</li>
 </ul>
-</tr>
 
 </td>
 
-<td>
+</tr>
 
-<tr><strong>Cons</strong></tr>
 <tr>
+
+<td>
+<p><strong>Cons</strong></p>
+
 <ul>
 	<li>Too many parameters</li>
 	<li>Sometimes, the functionality doesn't need all of the dependencies</li>
 </ul>
-</tr>
-
 </td>
+
+</tr>
 
 </table>
