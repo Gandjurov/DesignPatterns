@@ -252,7 +252,7 @@ of the <strong>irrelevant</strong> and </br>
 </ul>
 </td>
 
-<td style="padding: 6px 13px;">
+<td padding="6px 13px;">
 <p><strong>Cons</strong></p>
 
 <ul>
@@ -269,7 +269,7 @@ of the <strong>irrelevant</strong> and </br>
 <table>
 <tr>
 
-<td style="padding: 6px 13px;">
+<td padding="6px 13px;">
 <p><strong>Pros</strong></p>
 <ul>
 	<li>Functionality can be changed at any time</li>
@@ -277,7 +277,7 @@ of the <strong>irrelevant</strong> and </br>
 </ul>
 </td>
 
-<td style="padding: 6px 13px;">
+<td padding="6px 13px;">
 <p><strong>Cons</strong></p>
 <ul>
 	<li>State can be invalid</li>
@@ -293,14 +293,14 @@ of the <strong>irrelevant</strong> and </br>
 <table>
 <tr>
 
-<td style="padding: 6px 13px;">
+<td padding="6px 13px;">
 <p><strong>Pros</strong></p>
 <ul>
 	<li>Changes are only localized to the method</li>
 </ul>
 </td>
 
-<td style="padding: 6px 13px;">
+<td padding="6px 13px;">
 <p><strong>Cons</strong></p>
 <ul>
 	<li>Too many parameters</li>
