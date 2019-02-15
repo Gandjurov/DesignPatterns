@@ -254,9 +254,6 @@ of the <strong>irrelevant</strong> and </br>
 
 </td>
 
-</tr>
-
-<tr>
 
 <td>
 <p><strong>Cons</strong></p>
