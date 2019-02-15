@@ -311,3 +311,19 @@ of the <strong>irrelevant</strong> and </br>
 </tr>
 </table>
 
+<br/>
+<p><strong>DIP Violations</strong></p>
+<ul>
+	<li>Classic DIP Violations:</li>
+		<ul>
+			<li>Using the <strong>new</strong> keyword</li>
+			<li>Using <strong>static</strong> methods / properties</li>
+		</ul>
+</ul>
+<ul>
+	<li>How to fix code, that violates the DIP:</li>
+		<ul>
+			<li><strong>Extract interfaces</strong> + use <strong>constructor injection<strong></li>
+			<li>Set up an Inversion of Control (<strong>IoC</strong>) container</li>
+		</ul>
+</ul>
