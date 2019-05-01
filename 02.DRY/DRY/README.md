@@ -1,10 +1,9 @@
 <h1>Don't Repeat Yourself (DRY)</h1>
-<p>"Every piece of knowledge must have a single,<br/>
-unambiguous representation in the system."<br/>
-            <p align="right">The Pragmatic Programmer</p></p>
+<p>"Every piece of knowledge must have a single, unambiguous representation in the system."<br/>
+<p align="right">The Pragmatic Programmer</p></p>
 <br/>
 <p>"Repetition in logic calls for abstraction. Repetition in process calls for automation."<br/>
-                                               <p>97 Things Every Programmer Should Know</p></p>
+<p align="right">97 Things Every Programmer Should Know</p></p>
 
 <br/>
 
