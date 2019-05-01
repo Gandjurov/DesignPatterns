@@ -1,6 +1,7 @@
 <h1 align="center">Design Patterns</h1>
 <p align="center"><i>SOLID and Other Principles</i></p>
 
+<hr></hr>
 <h2 align="center">S O L I D</h2>
 
 <div align="center">
