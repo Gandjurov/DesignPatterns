@@ -2,7 +2,7 @@
 <p align="center"><i>SOLID and Other Principles</i></p>
 
 <hr></hr>
-<h2 align="center">S O L I D</h2>
+<h2 align="center"><a href="https://github.com/Gandjurov/DesignPatterns/tree/master/01.SOLID/SOLID%20Principles">S O L I D</a></h2>
 
 <div align="center">
 	<table align="center" border="0">
@@ -15,4 +15,4 @@
 </div>
 
 <hr></hr>
-<h2 align="center">Don't Repeat Yourself (DRY)</h2>
+<h2 align="center"><a href="https://github.com/Gandjurov/DesignPatterns/tree/master/02.DRY/DRY">Don't Repeat Yourself (DRY)/a></h2>
