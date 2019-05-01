@@ -15,4 +15,4 @@
 </div>
 
 <hr></hr>
-<h2 align="center"><a href="https://github.com/Gandjurov/DesignPatterns/tree/master/02.DRY/DRY">Don't Repeat Yourself (DRY)/a></h2>
+<h2 align="center"><a href="https://github.com/Gandjurov/DesignPatterns/tree/master/02.DRY/DRY">Don't Repeat Yourself (DRY)</a></h2>
