@@ -12,3 +12,5 @@
 		<tr><td>D</td> <td>&#187;</td> <td>Dependancy Inversion</td></tr>
 	</table>
 </div>
+
+<h2 align="center">Don't Repeat Yourself (DRY)</h2>
