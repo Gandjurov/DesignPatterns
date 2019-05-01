@@ -19,3 +19,6 @@
 
 <hr></hr>
 <h2 align="center"><a href="https://github.com/Gandjurov/DesignPatterns/tree/master/03.YAGNI/YAGNI">You Ain't Gonna Need It (YAGNI)</a></h2>
+
+<hr></hr>
+<h2 align="center"><a href="https://github.com/Gandjurov/DesignPatterns/tree/master/04.KISS/KISS">Keep It Simple, Stupid (KISS)</a></h2>
