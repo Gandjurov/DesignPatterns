@@ -13,4 +13,5 @@
 	</table>
 </div>
 
+<hr></hr>
 <h2 align="center">Don't Repeat Yourself (DRY)</h2>
